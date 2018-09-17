@@ -1,0 +1,72 @@
+[
+    {
+        "account": "Alice",
+        "date": "08/06/2017",
+        "description": "",
+        "category": "הכנסה",
+        "reference": "171717",
+        "amount": 2000,
+        "balance": 0,
+        "comments": ""
+    },
+    {
+        "account": "Bob",
+        "date": "21/07/2017",
+        "description": "",
+        "category": "הכנסה",
+        "reference": "68854",
+        "amount": 1000,
+        "balance": 0,
+        "comments": ""
+    },
+    {
+        "account": "Bob",
+        "date": "02/02/2017",
+        "description": "",
+        "category": "אשראי",
+        "reference": "3554",
+        "amount": -200,
+        "balance": 0,
+        "comments": ""
+    },
+    {
+        "account": "Alice",
+        "date": "02/06/2017",
+        "description": "",
+        "category": "ויזה",
+        "reference": "1527",
+        "amount": -1500,
+        "balance": 0,
+        "comments": ""
+    },
+    {
+        "account": "Alice",
+        "date": "25/06/2017",
+        "description": "",
+        "category": "ביטוח",
+        "reference": "99856",
+        "amount": -500,
+        "balance": 0,
+        "comments": ""
+    },
+    {
+        "account": "Bob",
+        "date": "01/07/2017",
+        "description": "",
+        "category": "ויזה",
+        "reference": "66584",
+        "amount": -3000,
+        "balance": 0,
+        "comments": ""
+    },
+    {
+        "account": "Bob",
+        "date": "21/02/2017",
+        "description": "",
+        "category": "ויזה",
+        "reference": "2214",
+        "amount": -1000,
+        "balance": 0,
+        "comments": ""
+    }
+]
