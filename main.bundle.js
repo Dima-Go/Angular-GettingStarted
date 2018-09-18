@@ -571,7 +571,7 @@ var _a;
 /***/ "../../../../../src/app/home/welcome.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"panel panel-primary\">\n    <div class=\"panel-heading\">\n        {{pageTitle}}\n    </div>\n    <div class=\"panel-body\"  >\n        <div class=\"row\" >\n            <img src=\"./assets/images/juve.png\" \n                 class=\"img-responsive center-block\"\n                 style=\"max-height:300px;padding-bottom:50px;padding-top:50px\"/>\n        </div>\n    </div>\n</div>"
+module.exports = "<div class=\"panel panel-primary\">\n    <div class=\"panel-heading\">\n        {{pageTitle}}\n    </div>\n    <div class=\"panel-body\"  >\n        <div class=\"row\" >\n            <img src=\"./assets/images/rotating_cube.png\" \n                 class=\"img-responsive center-block\"\n                 style=\"max-height:300px;padding-bottom:50px;padding-top:50px\"/>\n        </div>\n    </div>\n</div>"
 
 /***/ }),
 
